@@ -1,8 +1,0 @@
-pip freeze > requirements.txt
-
-qjango\Scripts\activate.bat
-
-qjango\Scripts\deactivate.bat
-
-
-py manage.py runserver
